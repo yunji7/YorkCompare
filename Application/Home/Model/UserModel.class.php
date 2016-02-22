@@ -13,7 +13,7 @@
 //        protected $tablePrefix = '';
 
         protected $_map = array(
-//            'name' =>'morego', // 把表单中name映射到数据表的username字段
+            'name' =>'morego', // 把表单中name映射到数据表的username字段
 //            'mail'  =>'email', // 把表单中的mail映射到数据表的email字段
         );
     }
